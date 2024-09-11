@@ -1,2 +1,3 @@
-# Chrome-Themes
-Repositories that contains my chrome themes i create before
+# Chrome Themes
+
+Last Update 2023 August
